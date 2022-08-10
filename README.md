@@ -1,3 +1,8 @@
+> **To get the Android Device Code change the branch to android**</br>
+
+> **To get the System Code change the branch to Java(Windows)**
+
+
 # Android-Mouse
 It is project that uses the sensors in an android device to the translate 3D movement in space into 2D movements for mouse on windows System.
 
@@ -31,9 +36,3 @@ It Connects to your android device and your windows system.
 - Can be used to View Films from a greater distance and as it doesn't require any surface to work on, it works pretty smoothly.
 - Can switch to various device in an Instant to take control over their mouse. (Spare Yourshelf from the process of removing and inserting the bluetooth device in every device.)
 - Can be used as an replacement of pointer when teaching using projectors.
-
-
-
-> **To get the Android Device Code change the branch to android**</br>
-
-> **To get the System Code change the branch to Java(Windows)**

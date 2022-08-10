@@ -12,9 +12,9 @@ It Connects to your android device and your windows system.
 3. Enter the ip address of the network on the computer system
 4. Adjust the sensitivity of the mouse</br>
 <span>
-<img src="https://user-images.githubusercontent.com/53623151/183961792-0949fa29-b5c7-46a2-8c6f-18c4cae21d89.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/53623151/183961882-71483654-7501-41ed-977d-546d34d23023.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/53623151/183961916-c34f8559-e9b2-47e1-8805-98e461860c39.jpeg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/53623151/183961792-0949fa29-b5c7-46a2-8c6f-18c4cae21d89.jpeg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/53623151/183961882-71483654-7501-41ed-977d-546d34d23023.jpeg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/53623151/183961916-c34f8559-e9b2-47e1-8805-98e461860c39.jpeg" width="250" height="500">
 </span></br></br>
 5. Click on the Click Area
 

@@ -13,5 +13,9 @@ Adjust the sensitivity of the mouse
 
 features:
 
-Control your mouse using your android device
+Control your mouse using your android device.</br>
 Can perform clicks on the system via your android device.
+
+
+> **To get the Android Device Code change the branch to android**</br>
+> **To get the System Code change the branch to Java(Windows)**
